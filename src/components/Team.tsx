@@ -2,19 +2,19 @@ const teamMembers = [
   {
     name: "Victoria Ashford",
     role: "Chief Executive Officer",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&h=400&fit=crop",
     bio: "With over 20 years in global talent acquisition, Victoria leads our strategic vision and drives innovation across all business verticals.",
   },
   {
     name: "Marcus Chen",
     role: "Senior Executive Recruiter",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1556157382-97edd2f9e3ee?w=400&h=400&fit=crop",
     bio: "Marcus bridges the gap between Fortune 500 companies and exceptional C-suite talent, specializing in executive search and leadership placement.",
   },
   {
     name: "Sophia Reynolds",
     role: "Global Talent Director",
-    image: "https://images.unsplash.com/photo-1598550874175-4d0ef436c909?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?w=400&h=400&fit=crop",
     bio: "Sophia specializes in international recruitment across technology, finance, and healthcare sectors with a consultative, results-driven approach.",
   },
   {
@@ -26,13 +26,13 @@ const teamMembers = [
   {
     name: "Rachel Hartman",
     role: "Head of Talent Strategy",
-    image: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=400&h=400&fit=crop",
     bio: "Rachel drives recruitment excellence across all sectors, managing candidate pipelines, analytics, and workforce planning initiatives.",
   },
   {
     name: "James Mitchell",
     role: "Operations Director",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
     bio: "James ensures operational excellence across all recruitment initiatives, overseeing process optimization and compliance standards.",
   },
 ];
