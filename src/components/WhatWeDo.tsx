@@ -1,4 +1,5 @@
 import { CheckCircle } from "lucide-react";
+import jobSeekersImage from "@/assets/job-seekers.png";
 import teamworkImage from "@/assets/teamwork-2.png";
 
 const WhatWeDo = () => {
@@ -29,7 +30,7 @@ const WhatWeDo = () => {
           <div className="relative">
             <div className="rounded-2xl overflow-hidden mb-8">
               <img
-                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop"
+                src={jobSeekersImage}
                 alt="Job seekers collaboration"
                 className="w-full h-64 object-cover"
               />
