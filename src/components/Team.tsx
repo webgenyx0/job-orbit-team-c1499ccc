@@ -1,39 +1,46 @@
+import oliviaBennett from "@/assets/team/olivia-bennett.png";
+import mariaGonzalez from "@/assets/team/maria-gonzalez.png";
+import elizabethWilson from "@/assets/team/elizabeth-wilson.png";
+import nicoleAnderson from "@/assets/team/nicole-anderson.png";
+import briannaCollins from "@/assets/team/brianna-collins.png";
+import lindaPeterson from "@/assets/team/linda-peterson.png";
+
 const teamMembers = [
   {
-    name: "Victoria Hamilton",
+    name: "Olivia Bennett",
     role: "Managing Partner",
-    image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=400&h=400&fit=crop",
-    bio: "Over 15 years in global talent acquisition, Victoria leads our strategic partnerships and executive recruitment across multiple industries.",
+    image: oliviaBennett,
+    bio: "Over 15 years in global talent acquisition, Olivia leads our strategic partnerships and executive recruitment across multiple industries.",
   },
   {
-    name: "Catherine Reynolds",
+    name: "Maria Gonzalez",
     role: "Senior Executive Recruiter",
-    image: "https://images.unsplash.com/photo-1560087637-bf797bc7a06a?w=400&h=400&fit=crop",
-    bio: "Catherine bridges the gap between top employers and exceptional talent, specializing in workforce planning and client relationship management.",
+    image: mariaGonzalez,
+    bio: "Maria bridges the gap between top employers and exceptional talent, specializing in workforce planning and client relationship management.",
   },
   {
-    name: "Margaret Chen",
+    name: "Elizabeth Wilson",
     role: "Global Talent Consultant",
-    image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&h=400&fit=crop",
-    bio: "Margaret specializes in leadership recruitment across technology, finance, and energy sectors with a consultative, value-driven approach.",
+    image: elizabethWilson,
+    bio: "Elizabeth specializes in leadership recruitment across technology, finance, and energy sectors with a consultative, value-driven approach.",
   },
   {
-    name: "Elizabeth Monroe",
+    name: "Nicole Anderson",
     role: "Director of Operations",
-    image: "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=400&h=400&fit=crop",
-    bio: "Elizabeth ensures operational excellence across all recruitment initiatives, managing process optimization and team coordination.",
+    image: nicoleAnderson,
+    bio: "Nicole ensures operational excellence across all recruitment initiatives, managing process optimization and team coordination.",
   },
   {
-    name: "Alexandra Brooks",
+    name: "Brianna Collins",
     role: "Head of Talent Strategy",
-    image: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=400&h=400&fit=crop",
-    bio: "Alexandra drives recruitment excellence across all sectors, managing candidate pipelines, analytics, and workforce planning initiatives.",
+    image: briannaCollins,
+    bio: "Brianna drives recruitment excellence across all sectors, managing candidate pipelines, analytics, and workforce planning initiatives.",
   },
   {
-    name: "Stephanie Morrison",
+    name: "Linda Peterson",
     role: "Client Success Manager",
-    image: "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=400&h=400&fit=crop",
-    bio: "Stephanie oversees enterprise client relationships, ensuring seamless talent solutions from initial consultation to successful placement.",
+    image: lindaPeterson,
+    bio: "Linda oversees enterprise client relationships, ensuring seamless talent solutions from initial consultation to successful placement.",
   },
 ];
 
