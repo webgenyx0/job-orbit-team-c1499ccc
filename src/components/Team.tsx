@@ -4,6 +4,7 @@ import elizabethWilson from "@/assets/team/elizabeth-wilson.png";
 import nicoleAnderson from "@/assets/team/nicole-anderson.png";
 import briannaCollins from "@/assets/team/brianna-collins.png";
 import lindaPeterson from "@/assets/team/linda-peterson.png";
+import teamworkImage from "@/assets/teamwork-1.png";
 
 const teamMembers = [
   {
@@ -55,6 +56,14 @@ const Team = () => {
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
             Our strength lies in our people. Our recruitment specialists, career strategists, and industry consultants work together to connect exceptional talent with world-class organizations globally.
           </p>
+        </div>
+
+        <div className="rounded-2xl overflow-hidden mb-16 max-w-4xl mx-auto">
+          <img
+            src={teamworkImage}
+            alt="Team collaboration in modern office"
+            className="w-full h-80 object-cover"
+          />
         </div>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-12">
