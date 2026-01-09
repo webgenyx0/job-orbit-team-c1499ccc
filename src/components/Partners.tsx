@@ -1,9 +1,9 @@
 const partners = [
-  { name: "Fortune 500", color: "bg-primary" },
-  { name: "Forbes Global 2000", color: "bg-secondary" },
-  { name: "FTSE 100", color: "bg-accent" },
-  { name: "S&P 500", color: "bg-brand-blue" },
-  { name: "DAX 40", color: "bg-primary" },
+  { name: "Fortune 500" },
+  { name: "Forbes Global 2000" },
+  { name: "FTSE 100" },
+  { name: "S&P 500" },
+  { name: "DAX 40" },
 ];
 
 const Partners = () => {
@@ -14,13 +14,13 @@ const Partners = () => {
           Companies We Partner With:
         </h2>
         
-        <div className="flex flex-wrap justify-center items-center gap-8 lg:gap-16">
+        <div className="flex flex-wrap justify-center items-center gap-6 lg:gap-12">
           {partners.map((partner) => (
             <div
               key={partner.name}
-              className="flex items-center justify-center px-6 py-3 rounded-lg bg-muted/50 hover:bg-muted transition-colors"
+              className="flex items-center justify-center px-8 py-4 rounded-xl bg-muted/30 hover:bg-muted/50 transition-all hover:scale-105"
             >
-              <span className="text-lg font-bold text-foreground/70">
+              <span className="text-lg font-bold text-foreground/80">
                 {partner.name}
               </span>
             </div>
